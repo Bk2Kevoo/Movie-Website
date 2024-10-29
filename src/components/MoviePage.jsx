@@ -2,7 +2,7 @@
 function MoviePage() {
     return (
         <div>
-            Hello There
+            Hello There!
         </div>
     )
 }
