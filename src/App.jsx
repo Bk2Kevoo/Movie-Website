@@ -2,6 +2,7 @@ import './App.css'
 import MoviePage from "./components/MoviePage"
 
 function App() {
+  
 
   return (
     <>
